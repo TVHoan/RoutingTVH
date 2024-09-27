@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "zDbja04sgQHo860L1DLCYHHKooEzak6Odmy0rzarufdR3w6IC8KGpHCwwX3DwHrhjGd03wJz1hFC4il3IV8C/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\RiderProjects\\RoutingTVH\\RoutingTVH\\RoutingTVH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\9.0.0-rc.1.24452.1\\microsoft.aspnetcore.connections.abstractions.9.0.0-rc.1.24452.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\9.0.0-rc.1.24452.1\\microsoft.aspnetcore.http.connections.common.9.0.0-rc.1.24452.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.0-rc.1.24431.7\\microsoft.bcl.asyncinterfaces.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.features\\9.0.0-rc.1.24452.1\\microsoft.extensions.features.9.0.0-rc.1.24452.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.io.pipelines\\9.0.0-rc.1.24431.7\\system.io.pipelines.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.text.encodings.web\\9.0.0-rc.1.24431.7\\system.text.encodings.web.9.0.0-rc.1.24431.7.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.text.json\\9.0.0-rc.1.24431.7\\system.text.json.9.0.0-rc.1.24431.7.nupkg.sha512"
+  ],
+  "logs": []
+}

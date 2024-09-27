@@ -1,0 +1,12 @@
+C:\Users\PC\RiderProjects\RoutingTVH\RoutingTVH\bin\Release\net8.0\RoutingTVH.deps.json
+C:\Users\PC\RiderProjects\RoutingTVH\RoutingTVH\bin\Release\net8.0\RoutingTVH.dll
+C:\Users\PC\RiderProjects\RoutingTVH\RoutingTVH\bin\Release\net8.0\RoutingTVH.pdb
+C:\Users\PC\RiderProjects\RoutingTVH\RoutingTVH\obj\Release\net8.0\RoutingTVH.csproj.AssemblyReference.cache
+C:\Users\PC\RiderProjects\RoutingTVH\RoutingTVH\obj\Release\net8.0\RoutingTVH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\RiderProjects\RoutingTVH\RoutingTVH\obj\Release\net8.0\RoutingTVH.AssemblyInfoInputs.cache
+C:\Users\PC\RiderProjects\RoutingTVH\RoutingTVH\obj\Release\net8.0\RoutingTVH.AssemblyInfo.cs
+C:\Users\PC\RiderProjects\RoutingTVH\RoutingTVH\obj\Release\net8.0\RoutingTVH.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\RoutingTVH\RoutingTVH\obj\Release\net8.0\RoutingTVH.dll
+C:\Users\PC\RiderProjects\RoutingTVH\RoutingTVH\obj\Release\net8.0\refint\RoutingTVH.dll
+C:\Users\PC\RiderProjects\RoutingTVH\RoutingTVH\obj\Release\net8.0\RoutingTVH.pdb
+C:\Users\PC\RiderProjects\RoutingTVH\RoutingTVH\obj\Release\net8.0\ref\RoutingTVH.dll
